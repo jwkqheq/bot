@@ -64,7 +64,7 @@ split = 'dd46a9fa-ea4b-486a-b9d6-b37343366de6'
 try:
     pass
 except:
-    pass
+    sub_client.send_message(message='Бот запущен. Введите ?h для просмотра команд.', chatId=chat2, messageType=100
 
 oldMessages = []
 
