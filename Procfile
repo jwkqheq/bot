@@ -1,1 +1,1 @@
-worker: python online.py
+worker: python rusbot.py
